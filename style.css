@@ -1,0 +1,11 @@
+.wrapper{
+display: flex;
+}
+.itemList{
+    width: 50%;
+    background-color: antiquewhite;
+}
+.fotoList{
+    width: 50%;
+    background-color: grey;
+}
